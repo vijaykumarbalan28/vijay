@@ -1,0 +1,8 @@
+YVR_PRQ2-XFT-PERFORMANCE-2023WW10.6_011829
+
+2023WW10.6_011829
+
+Y:\fast-data\Releases\CV\YoungsvilleRefreshMR4\2023WW10.5_011829
+
+yvr_m2-nrt-bl-fw-update.yml
+yvr_m2-nrt-security.yml
